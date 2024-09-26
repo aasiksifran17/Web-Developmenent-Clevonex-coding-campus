@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+#aasik{
+    color: blue;
+}
+
+.sifran{
+color:  green;
+border: 1px dashed black;
+background-color: rgb(255, 0, 170);
+background-image: url(IMG-20240923-WA0021.png);
+height: 300px;
+width: 600px;
+border-bottom: 2px solid purple transparent
+border-radius 20px;
+
+
+margin-let: 7070px;
+}
+
+
